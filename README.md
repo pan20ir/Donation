@@ -1,5 +1,4 @@
-# Donation
-challenge Insight
+# Donation Analyzer
 
 Dear reviewers:
 
