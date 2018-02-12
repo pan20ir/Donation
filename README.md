@@ -1,4 +1,4 @@
-# Donation Analyzer
+# Donation Analyzer challenge
 
 Dear reviewers:
 
